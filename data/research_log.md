@@ -27,3 +27,6 @@ Stopy (Rychaltice, nejsou doklady příbuzenství s naší linií):
 - Mikoláš Kološ, sedlák v Rychalticích – kmotr 1873.
 - Rejstřík Rychaltice (inv. 1507, P XI 4), ověřeno ve výřezu: 1848 „Kolloß […] Rich.“, tužkou připsáno „Valent.“, str. 24; 1853 „Kolloß Valentin, Rychaltitz“, str. 44. Archiv nejde otevřít z cloudu (ochrana validate.perfdrive.com blokovaná sítí, navíc CAPTCHA) – snímky stáhne Martin.
 - ZA Opava, N Rychaltice 1840–1870 (inv. 1505, P XI 2), sn. 1–10 od Martina = str. 1–19, roky 1840–1846. Strany 24 (1848) a 44 (1853) s Valentinem v sadě nejsou (odhad sn. 13 a 23). Stopa: porodní bába v Rychalticích 1840 je „Hebamme Katharina Kolloß“ (sn. 2, téměř u všech křtů). Na sn. 2 i křest Františka (8. 8. 1840, č. 2), otec Joseph Kolloß, Bauer – rodina sedláka Josefa z č. 2/6?, ne naše linie. Systematické čtení všech Kološů 1840–1846 odloženo – nejdřív Valentin.
+- ZA Opava, N Rychaltice 1840–1870 (P XI 2), sn. 13 str. 24: **nalezen křest Valentina Kološe 10. 2. 1848, č. 8**, otec Johann Kolloß, matka Anna dc. + Johanna J[urky?]; kmotr Joseph Kolloß, Bauer → rychaltice_krest_valentin_kolos_1848.
+- Tamtéž sn. 23 str. 44: Valentin * 29. 1. 1853 Rychaltice 82 – otec Joseph Kolloß, Taglöhner, matka Rosalia (Hrčková) – jiná rodina (táž jako nádeník Josef 1877).
+- Sn. 12, 14, 15, 22, 24, 25 zatím neprojity systematicky na Kološe.
