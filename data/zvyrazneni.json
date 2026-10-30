@@ -1,1 +1,26 @@
-{}
+{
+ "klokocov_krest_viktor_kolos_1886": {
+  "boxes": [
+   [
+    0.03,
+    0.665,
+    0.97,
+    0.9
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "lesna_krest_aloisie_mockova_1886": {
+  "boxes": [
+   [
+    0.495,
+    0.425,
+    0.99,
+    0.535
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ }
+}
