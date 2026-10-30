@@ -42,3 +42,6 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
   další dokumenty a fotky.
 - Další krok v matrikách: Oldřich Kološ * 8. 9. 1911 Starý Jičín (křest) → rodiče Viktor Kološ a Aloisie Mocková,
   jejich sňatek (asi 1908–1911) → křty Viktora a Aloisie 1886.
+
+## Rozhodnutí uživatele
+- Nemanželské děti a podobné zápisy smí být na webu (Martin, 30. 10. 2026) – nehlásit jako citlivé.

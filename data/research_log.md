@@ -25,3 +25,4 @@ Stopy (Rychaltice, nejsou doklady příbuzenství s naší linií):
 - Jan Kološ, sedlák č. 65 (syn Ignáce Kološe, sedláka, a Anny roz. Kozové z Horního Sklenova), × Mariana Mičanová – dcera Karolina 1871.
 - Josef Kološ, nádeník (syn Josefa, podruha), × Rozálie Hrčková ze Staré Bělé – syn František 1877.
 - Mikoláš Kološ, sedlák v Rychalticích – kmotr 1873.
+- Rejstřík Rychaltice (inv. 1507, P XI 4), ověřeno ve výřezu: 1848 „Kolloß […] Rich.“, tužkou připsáno „Valent.“, str. 24; 1853 „Kolloß Valentin, Rychaltitz“, str. 44. Archiv nejde otevřít z cloudu (ochrana validate.perfdrive.com blokovaná sítí, navíc CAPTCHA) – snímky stáhne Martin.
