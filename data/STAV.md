@@ -4,8 +4,11 @@ Tento soubor je vstupní bod. Po každém restartu (nová konverzace, zkrácený
 pak konec `research_log.md` a sekci „Rozpracováno“.
 
 ## Pro koho
-- Výchozí osoba: (doplnit – jméno, rok a místo narození)
-- Kdo s Claudem pracuje a jak chce komunikovat: (doplnit)
+- Výchozí osoba: Martin Kološ, * 1981 Nový Jičín (bydlí v Opavě)
+- Kdo s Claudem pracuje a jak chce komunikovat: Martin sám, česky, stručně. Pracuje v cloudovém Claude Code –
+  projekt se musí ukládat do soukromého GitHub úložiště (prostředí je dočasné).
+- Manželčina strana (Břenkovi, Chrastinovi/Chrascinovi z Jablunkovska) je ve stromu z MyHeritage
+  (`dokumenty/strom_myheritage.ged`), ale rodokmen je jen pro Martina – její linie zatím ne.
 
 ## Kde co je
 | Soubor | Obsah |
@@ -34,4 +37,8 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 6. Po změně dat spustím `python3 -I tools/kontrola.py`.
 
 ## Rozpracováno (aktualizovat průběžně)
-- (zatím nic)
+- Načten strom z MyHeritage (Martinova strana: 19 předků, nejstarší Valentin Kološ, Klokočov).
+- Čeká se na Martina: připojení GitHub úložiště `rodokmen`; rozhovor o rodičích matky a babičky (Rebrošovi, Spurní);
+  další dokumenty a fotky.
+- Další krok v matrikách: Oldřich Kološ * 8. 9. 1911 Starý Jičín (křest) → rodiče Viktor Kološ a Aloisie Mocková,
+  jejich sňatek (asi 1908–1911) → křty Viktora a Aloisie 1886.

@@ -1,8 +1,11 @@
 {
- "nazev": "",
+ "nazev": "Rodokmen Kološových",
  "popis": "",
  "zapati": "Dohledáno v digitalizovaných matrikách státních oblastních archivů",
- "kontakt": {"jmeno": "", "email": ""},
+ "kontakt": {
+  "jmeno": "",
+  "email": ""
+ },
  "prihlaseni": {
   "uvod": "Tenhle web je jen pro rodinu a příbuzné.",
   "otazka": "",
@@ -14,6 +17,10 @@
   "foto": "",
   "foto_popis": ""
  },
- "pribeh": {"menu": "", "rod": 8, "tlacitko": ""},
+ "pribeh": {
+  "menu": "",
+  "rod": 8,
+  "tlacitko": ""
+ },
  "zajimavosti_na_uvodu": []
 }

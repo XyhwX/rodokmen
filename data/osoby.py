@@ -18,11 +18,37 @@
 # Neznámý otec nemanželského dítěte: dict(n="otec neuveden", st="unk", f=[], note="…")
 
 P = {
+ 1: dict(n="Martin Kološ", y="* 1981", st="fam", sex="M", f=["* 1981 Nový Jičín"], r=[], note="Žijící – údaje jen základní."),
+ 2: dict(n="Milan Kološ", y="* 1959", st="fam", f=["* 1959 Ostrava"], r=[], note="Žijící – údaje jen základní."),
+ 3: dict(n="Alena Rebrošová", y="* 1960", st="fam", f=["* 1960"], r=[], note="Žijící – údaje jen základní."),
+ 4: dict(n="Oldřich Kološ", y="* 1935", st="fam", f=["* 21. 12. 1935"], r=[],
+         note="Strom MyHeritage: zemřel, datum úmrtí neuvedeno."),
+ 5: dict(n="Marie Spurná", y="* 1936", st="fam", f=["* 1936"], r=[],
+         note="Strom MyHeritage neuvádí úmrtí – zatím vedena jako žijící (údaje jen základní)."),
+ 8: dict(n="Oldřich Kološ", y="* 1911", st="fam", f=["* 8. 9. 1911 Starý Jičín"], r=[],
+         note="Strom MyHeritage: zemřel, datum úmrtí neuvedeno."),
+ 9: dict(n="Štěpánka Stodůlková", y="* 1913", st="fam", f=["* 31. 7. 1913"], r=[],
+         note="Strom MyHeritage: zemřela, datum úmrtí neuvedeno."),
+ 16: dict(n="Viktor Kološ", y="* 1886", st="fam", f=["* 14. 12. 1886", "× Aloisie Mocková"], r=[]),
+ 17: dict(n="Aloisie Mocková", y="* 1886", st="fam", f=["* 8. 10. 1886", "× Viktor Kološ"], r=[]),
+ 18: dict(n="František Stodůlka", y="* 1883", st="fam", f=["* 13. 4. 1883"], r=[]),
+ 19: dict(n="Emilie Kantorová", y="* 1888", st="fam", f=["* 11. 4. 1888"], r=[]),
+ 32: dict(n="Valentin Kološ", y="", st="fam", f=[], r=[], note="Strom MyHeritage: bydliště Klokočov."),
+ 33: dict(n="Mariana Veselková", y="", st="fam", f=[], r=[], note="Strom MyHeritage: bydliště Klokočov."),
+ 34: dict(n="Alois Mocek", y="", st="fam", f=[], r=[], note="Strom MyHeritage: bydliště Lešná."),
+ 35: dict(n="Františka Bajarová", y="", st="fam", f=[], r=[], note="Strom MyHeritage: bydliště Vysoká."),
+ 36: dict(n="Jan Stodůlka", y="", st="fam", f=[], r=[]),
+ 37: dict(n="Marie Frydrych", y="", st="fam", f=[], r=[],
+          note="Ve stromu MyHeritage příjmení v mužském tvaru – správně asi Frydrychová; ověřit v matrice."),
+ 38: dict(n="Josef Kantor", y="", st="fam", f=[], r=[]),
+ 39: dict(n="Barbora", y="", st="fam", f=[], r=[], note="Rodné příjmení ve stromu chybí."),
 }
 
 # Rody = osm větví podle pradědečků a prababiček (čísla 8–15). Doplňte, jakmile je znáte:
 # 8: ("Novákové", "Jedna věta, kdo to byli a odkud – ukáže se na webu u rodu."),
 LINES = {
+ 8: ("Kološové", "Hlavní rod. Podle rodinného stromu z Klokočova, ve 20. století Starý Jičín."),
+ 9: ("Stodůlkovi", "Rod prababičky Štěpánky Stodůlkové (* 1913)."),
 }
 
 # Příbuzní mimo přímou linii (sourozenci, strýcové…): k = číslo předka, ke kterému patří.
@@ -34,6 +60,9 @@ SIDE = [
 # „Vyřešeno: …“ (na webu se skryje), „Hypotéza: …“ nebo „Otevřené: …“. Jde na web – nic citlivého.
 # ("Kdy se narodil Jan Novák?", "Otevřené: rodina říká 1850, v Holicích 1848–1852 nenalezen.")
 ISSUES = [
+ ("Kdo byli rodiče Marie Spurné (* 1936)?", "Otevřené: ve stromu chybí."),
+ ("Kdo byli rodiče Aleny Rebrošové (* 1960)?", "Otevřené: ve stromu chybí."),
+ ("Kde se narodili Viktor Kološ (* 1886) a Aloisie Mocková (* 1886)?", "Otevřené: rodinný strom uvádí jen data; rodiče bydleli v Klokočově a v Lešné."),
 ]
 
 # Hypotézy o původu rodu nad rámec doložené linie (zobrazí se na stránce rodu):
